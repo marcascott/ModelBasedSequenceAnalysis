@@ -1,0 +1,13 @@
+# Description of code and data associated with:
+Model-Based Clustering and Analysis of Life History Data
+JRSS-A, YEAR, VOL, ISS. PP.
+Marc A. Scott, Kaushik Mohan, and Jacques-Antoine Gauthier 
+E-mail: marc.scott@nyu.edu 
+Webpage: https://steinhardt.nyu.edu/people/marc-scott
+
+FILES:
+multinomDAR.R - an extension to R flexmix package implementing the DAR class 
+
+seqMBC.R - code that demonstrates a core set of models discussed in the paper.  Instructions for adjusting the parameters in the runs are given in that code
+
+oneSimDARcores.txt, oneSimDARprof.txt - raw data files of *simulated* sequences.  Based on models fit for SHP data, but simulated to ensure confidentiality of original source. No identifiers or even individual characteristics were included.  These data are entirely simulated; resemblance to real individuals is only in the aggregate.
